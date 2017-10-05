@@ -1,0 +1,25 @@
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"Não há ninguém que ame a dor por si só, que a busque e queira tê-la, simplesmente por ser dor..."
+
+    Nullam quis tortor eu dolor fringilla fringilla.
+    Phasellus ullamcorper mauris eu nulla malesuada, ut suscipit justo volutpat.
+
+    Integer aliquet nulla at nisl sodales, sit amet efficitur ligula facilisis.
+    Quisque consequat mi vel mauris finibus, in finibus tortor vulputate.
+    Cras rutrum velit eget mauris tempor sagittis.
+    Pellentesque posuere leo eget neque malesuada, at pharetra quam pharetra.
+    Ut in velit sit amet sem rutrum venenatis et non quam.
+
+    Cras hendrerit ante vel diam semper imperdiet non ut lectus.
+    Quisque vel enim vestibulum, sodales dui ac, fringilla lorem.
+    Donec gravida enim a magna rhoncus, vel pharetra sapien pellentesque.
+    Integer sagittis neque sed magna tristique porttitor.
+    Nullam sit amet libero faucibus, aliquam ex at, dapibus lorem.
+    Nulla varius augue volutpat, placerat ipsum ac, molestie purus.
+
+    Duis id turpis ultricies, aliquam magna eu, consectetur sapien.
+    Sed sed mi vitae urna vestibulum efficitur.
+    Fusce cursus orci ac lorem pharetra feugiat.
+    Phasellus et odio ut nulla ullamcorper placerat.
+
+    Duis et lorem dictum, fringilla eros molestie, vulputate libero.
